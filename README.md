@@ -4,6 +4,9 @@ A computational approach to predict the NF-kB inhibitors using the SMILES inform
 NF-kBIn is developed to predict the NF-kB inhibitors using the SMILES information of the molecules. In the standalone version, support vector classifier based model is implemented.
 NF-kBIn is also available as web-server at https://webs.iiitd.edu.in/raghava/nfkbin. Please read/cite the content about the NF-kBIn for complete information including algorithm behind the approach.
 
+## datasets folder
+Contain all the datasets
+
 ## Standalone
 The Standalone version of NF-kBIn is written in python3 and following libraries are necessary for the successful run:
 - scikit-learn
