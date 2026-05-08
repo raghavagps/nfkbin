@@ -4,6 +4,13 @@ A computational approach to predict the NF-kB inhibitors using the SMILES inform
 NF-kBIn is developed to predict the NF-kB inhibitors using the SMILES information of the molecules. In the standalone version, support vector classifier based model is implemented.
 NF-kBIn is also available as web-server at https://webs.iiitd.edu.in/raghava/nfkbin. Please read/cite the content about the NF-kBIn for complete information including algorithm behind the approach.
 
+
+## Reference
+Jain S, Tomer R, Patiyal S and Raghava GPS (2025) NfκBin: a machine learning based method for screening TNF-α induced NF-κB inhibitors. Front. Bioinform. 5:1573744. doi: 10.3389/fbinf.2025.1573744
+
+## Zenodo
+https://doi.org/10.5281/zenodo.19912842
+
 ## datasets folder
 Contain all the datasets
 
